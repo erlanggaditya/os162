@@ -1,3 +1,3 @@
-This week we elarn about using badak server and gihub using terminal.
+This week we learn about using badak server and gihub using terminal.
 In badak we learn about creating files and folder using mkdir and touch.
 In git we learn about how to connect badak and git, commit, push and pull.
