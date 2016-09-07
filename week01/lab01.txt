@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 aditya.erlangga StafCS 4096 Sep  7 13:27 .
+drwx--x--x  3 aditya.erlangga StafCS 4096 Sep  7 13:25 ..
+drwxr-xr-x  8 aditya.erlangga StafCS 4096 Sep  7 13:26 .git
+-rw-r--r--  1 aditya.erlangga StafCS    0 Sep  7 13:27 lab01.txt
+-rw-r--r--  1 aditya.erlangga StafCS    7 Sep  7 13:08 README.md
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:22 SandBox
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:25 week00
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week01
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week02
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week03
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week04
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week05
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week06
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week07
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week08
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week09
+drwxr-xr-x  2 aditya.erlangga StafCS 4096 Sep  7 13:19 week10
+/home/fasilkom/mahasiswa/a/aditya.erlangga/os162/week01
